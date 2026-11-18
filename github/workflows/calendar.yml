@@ -14,6 +14,6 @@ jobs:
         env:
           RUBIKA_TOKEN: ${{ secrets.RUBIKA_TOKEN }}
           RUBIKA_CHAT_ID: ${{ secrets.RUBIKA_CHAT_ID }}
-          CHANNEL_NAME: "اسم کانال شما"
-          CHANNEL_ID: "@your_channel"
+          CHANNEL_NAME: " موبایل آسیا"
+          CHANNEL_ID: "@Mobile_Asia1"
           HIJRI_OFFSET: "0"
